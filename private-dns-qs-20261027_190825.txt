@@ -1,0 +1,1 @@
+{"version":"1","dnsOffToggle":true,"dnsAutoToggle":true,"requireUnlock":false,"dnsProviders":[{"hostname":"dns.google","shortcutEnabled":true,"enabled":true},{"hostname":"dns.opendns.com","shortcutEnabled":true,"enabled":true}]}

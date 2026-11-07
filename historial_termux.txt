@@ -1,0 +1,58 @@
+    1  pkg search 
+    2  pkg installl
+    3  pkg install
+    4  pkg install https://doc.termux.com
+    5  pkg install root
+    6  pkg update && pkg upgrade -y
+    7  termux-setup-storage
+    8  pkg install python
+    9  y
+   10  pkg install python
+   11  pkg install python-pip
+   12  pkg install nodejs
+   13  pkg install nodejs-lts
+   14  pkg install clang
+   15  pkg install make
+   16  pkg install rust
+   17  pkg install golang
+   18  pkg install python -y && pip install speedtest-cli
+   19  speedtest
+   20  pkg install python nodejs clang make rust golang php ruby -y
+   21  pkg update && pkg upgrade -y
+   22  termux-setup-storage
+   23  pkg install git curl wget openssh netcat-openbsd traceroute dnsutils -y
+   24  pkg install root-repo -y
+   25  pkg install nmap nikto hydra john tshark metasploit -y
+   26  pkg install nmap nikto hydra john tshark metasploit 
+   27  pkg install root-repo -y
+   28  pkg update
+   29  pkg install nmap nikto hydra john tshark metasploit -y
+   30  pkg install nano vim neovim micro -y
+   31  echo $PREFIX
+   32  pip install requests beautifulsoup4
+   33  nano extractor.py
+   34  python extractor.py
+   35  curl -s https://google.com > codigo_google.html
+   36  git config --global user.name "TuNombreDeUsuario"
+   37  git config --global user.email "tu-correo@ejemplo.com"
+   38  nano extractor.py
+   39  python extractor.py
+   40  nano extractor.py
+   41  python extractor.py
+   42  pip install vt-py nest_asyncio
+   43  nano analizador.py
+   44  python analizador.py
+   45  nano analizador.py
+   46  python analizador.py
+   47  sha256sum nombre_del_archivo.apk
+   48  ls
+   49  ls -lh
+   50  pwd
+   51  cat analizador.py
+   52  history
+   53  pkg list-installed
+   54  pkg install git curl wget -y
+   55  mkdir proyectos
+   56  cd proyectos
+   57  termux-setup-storage
+   58  history > /sdcard/Download/historial_termux.txt
